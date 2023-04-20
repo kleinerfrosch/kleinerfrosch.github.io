@@ -683,7 +683,7 @@ footer{
         width: 700px;
     }
     .requirements_table .table_left, .requirements_table tr th, .requirements_table tr td{
-        font-size: 13px;
+        font-size: 13px !important;
         padding: 5px 10px;
         vertical-align: initial;
     }
